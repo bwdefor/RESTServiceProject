@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\RESTServiceProject",
+    "\\RESTServiceProject\\Controllers",
+    "\\RESTServiceProject\\Models"
   ],
+  "SelectedNode": "\\RESTServiceProject\\Controllers\\ValuesController.cs",
   "PreviewInSolutionExplorer": false
 }

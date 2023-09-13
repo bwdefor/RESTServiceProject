@@ -6,9 +6,9 @@ using RESTServiceProject.Models;
 
 namespace RESTServiceProject.Controllers
 {
-    [Route("api/ValuesController")]
+    [Route("api/UserController")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class UserController : ControllerBase
     {
         private static int currentId = 1;
         private static List<User> users = new List<User>();
@@ -37,6 +37,7 @@ namespace RESTServiceProject.Controllers
         }
 
         // POST api/<ValuesController>
+        [Authenticator]
         [HttpPost]
         public IActionResult Post([FromBody] User value)
         {
