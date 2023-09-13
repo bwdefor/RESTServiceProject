@@ -1,0 +1,5 @@
+C:\Users\Bende\source\repos\bwdefor\RESTServiceProject\RESTServiceProject.Tests\obj\Debug\net6.0\RESTServiceProject.Tests.csproj.AssemblyReference.cache
+C:\Users\Bende\source\repos\bwdefor\RESTServiceProject\RESTServiceProject.Tests\obj\Debug\net6.0\RESTServiceProject.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bende\source\repos\bwdefor\RESTServiceProject\RESTServiceProject.Tests\obj\Debug\net6.0\RESTServiceProject.Tests.AssemblyInfoInputs.cache
+C:\Users\Bende\source\repos\bwdefor\RESTServiceProject\RESTServiceProject.Tests\obj\Debug\net6.0\RESTServiceProject.Tests.AssemblyInfo.cs
+C:\Users\Bende\source\repos\bwdefor\RESTServiceProject\RESTServiceProject.Tests\obj\Debug\net6.0\RESTServiceProject.Tests.csproj.CoreCompileInputs.cache
